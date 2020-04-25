@@ -219,15 +219,38 @@
     "PRSB109_Sovetsky_Soyuz": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.3045, 
+                "bulletAirDrag": 0.247, 
                 "bulletAlwaysRicochetAt": 60.0, 
-                "bulletDetonator": 0.001, 
-                "bulletDetonatorThreshold": 2.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 68.0, 
                 "bulletDiametr": 0.406, 
-                "bulletKrupp": 250.0, 
+                "bulletKrupp": 2300.0, 
                 "bulletMass": 1108.0, 
-                "bulletName": "PRPA078_406MM_SAP_MOD1937", 
-                "bulletRicochetAt": 91.0, 
+                "bulletName": "PRPA078_406MM_AP_MOD1937", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 830.0
+            }
+        }, 
+        "Nation": "Russia", 
+        "Tier": 9, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.75, 
+        "vertdisp1": 0.4, 
+        "vertdisp2": 0.25, 
+        "vertdisp4": 0.6
+    }, 
+    "PRSB709_Zarya_Svobody": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.247, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 68.0, 
+                "bulletDiametr": 0.406, 
+                "bulletKrupp": 2300.0, 
+                "bulletMass": 1108.0, 
+                "bulletName": "PRPA078_406MM_AP_MOD1937", 
+                "bulletRicochetAt": 45.0, 
                 "bulletSpeed": 830.0
             }
         }, 

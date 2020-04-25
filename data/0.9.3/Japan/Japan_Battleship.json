@@ -405,19 +405,19 @@
         "vertdisp2": 0.2, 
         "vertdisp4": 0.5
     }, 
-    "PJSB510_Yashima": {
+    "PJSB510_Shikishima": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.32, 
+                "bulletAirDrag": 0.296, 
                 "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDetonator": 0.033, 
-                "bulletDetonatorThreshold": 170.0, 
+                "bulletDetonatorThreshold": 85.0, 
                 "bulletDiametr": 0.51, 
-                "bulletKrupp": 2850.0, 
+                "bulletKrupp": 2400.0, 
                 "bulletMass": 1984.0, 
-                "bulletName": "PJPA100_510MM_AP_YASHIMA", 
+                "bulletName": "510mm_AP_Type_98", 
                 "bulletRicochetAt": 45.0, 
-                "bulletSpeed": 720.0
+                "bulletSpeed": 765.0
             }
         }, 
         "Nation": "Japan", 
@@ -448,6 +448,29 @@
         "ammo_num": 1, 
         "vertdisp0": 0.8, 
         "vertdisp1": 0.6, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PJSB888_Asama": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.355, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 68.0, 
+                "bulletDiametr": 0.41, 
+                "bulletKrupp": 2711.0, 
+                "bulletMass": 1020.0, 
+                "bulletName": "410mm_AP/APC_Type91", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 806.0
+            }
+        }, 
+        "Nation": "Japan", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
         "vertdisp2": 0.2, 
         "vertdisp4": 0.5
     }, 

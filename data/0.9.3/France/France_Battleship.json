@@ -171,23 +171,9 @@
                 "bulletSpeed": 830.0
             }
         }, 
-        "Artillery1": {
-            "AP": {
-                "bulletAirDrag": 0.2791, 
-                "bulletAlwaysRicochetAt": 60.0, 
-                "bulletDetonator": 0.033, 
-                "bulletDetonatorThreshold": 63.0, 
-                "bulletDiametr": 0.38, 
-                "bulletKrupp": 2347.0, 
-                "bulletMass": 885.0, 
-                "bulletName": "PFPA036_380MM_45_1935_AP", 
-                "bulletRicochetAt": 45.0, 
-                "bulletSpeed": 830.0
-            }
-        }, 
         "Nation": "France", 
         "Tier": 8, 
-        "ammo_num": 2, 
+        "ammo_num": 1, 
         "vertdisp0": 0.6, 
         "vertdisp1": 0.5, 
         "vertdisp2": 0.2, 
@@ -325,6 +311,29 @@
         }, 
         "Nation": "France", 
         "Tier": 9, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PFSB528_Champagne": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.222, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.033, 
+                "bulletDetonatorThreshold": 68.0, 
+                "bulletDiametr": 0.406, 
+                "bulletKrupp": 2400.0, 
+                "bulletMass": 1085.0, 
+                "bulletName": "406mm_APC_Mle_1938", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 850.0
+            }
+        }, 
+        "Nation": "France", 
+        "Tier": 8, 
         "ammo_num": 1, 
         "vertdisp0": 0.6, 
         "vertdisp1": 0.5, 

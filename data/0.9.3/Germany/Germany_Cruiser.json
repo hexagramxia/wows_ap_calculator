@@ -405,7 +405,7 @@
     "PGSC509_Siegfried": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.2763, 
+                "bulletAirDrag": 0.276, 
                 "bulletAlwaysRicochetAt": 60.0, 
                 "bulletDetonator": 0.033, 
                 "bulletDetonatorThreshold": 63.0, 
@@ -453,7 +453,7 @@
             "AP": {
                 "bulletAirDrag": 0.2798, 
                 "bulletAlwaysRicochetAt": 60.0, 
-                "bulletDetonator": 0.01, 
+                "bulletDetonator": 0.033, 
                 "bulletDetonatorThreshold": 51.0, 
                 "bulletDiametr": 0.305, 
                 "bulletKrupp": 2450.0, 
