@@ -1019,7 +1019,7 @@
     "PASC710_Salem": {
         "Artillery0": {
             "AP": {
-                "bulletAirDrag": 0.321, 
+                "bulletAirDrag": 0.356, 
                 "bulletAlwaysRicochetAt": 67.5, 
                 "bulletDetonator": 0.033, 
                 "bulletDetonatorThreshold": 34.0, 
@@ -1028,7 +1028,7 @@
                 "bulletMass": 152.0, 
                 "bulletName": "PAPA012_Shell_203mm_AP_AP_Mk_21", 
                 "bulletRicochetAt": 60.0, 
-                "bulletSpeed": 853.0
+                "bulletSpeed": 762.0
             }
         }, 
         "Nation": "USA", 
