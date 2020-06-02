@@ -127,7 +127,7 @@ var pen_dict=[{},{}];
 //var glob_nation;
 //var glob_nation2;
 function load_version(id){
-  versio=["0.9.3", "0.9.4"]
+  versio=["0.9.3", "0.9.4", "0.9.5"]
   $("#version"+id).replaceWith("<select id=\"version"+id+"\" onchange=\"load_nation("+id+");\"></select>");  // replace the old select with a new empty select
   for(var i in versio) {
     $("#version"+id)[0].innerHTML += "<option value=\"" + versio[i] + "\">" + versio[i] + "</options>";  // append option
