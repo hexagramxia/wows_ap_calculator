@@ -76,7 +76,7 @@
                 "bulletDetonator": 0.022, 
                 "bulletDetonatorThreshold": 35.0, 
                 "bulletDiametr": 0.203, 
-                "bulletKrupp": 2350.0, 
+                "bulletKrupp": 3450.0, 
                 "bulletMass": 111.0, 
                 "bulletName": "WFR.GR.21AP", 
                 "bulletRicochetAt": 45.0, 
