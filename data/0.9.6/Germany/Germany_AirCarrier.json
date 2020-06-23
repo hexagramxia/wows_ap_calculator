@@ -1,0 +1,94 @@
+{
+    "PGSA104_Rhein": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.35, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.022, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.076, 
+                "bulletKrupp": 2400.0, 
+                "bulletMass": 10.0, 
+                "bulletName": "RZ73", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 500.0
+            }
+        }, 
+        "Nation": "Germany", 
+        "Tier": 4, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PGSA106_Weser": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.35, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.022, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.076, 
+                "bulletKrupp": 2400.0, 
+                "bulletMass": 10.0, 
+                "bulletName": "RZ73", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 500.0
+            }
+        }, 
+        "Nation": "Germany", 
+        "Tier": 6, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PGSA108_A.Parseval": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.35, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.022, 
+                "bulletDetonatorThreshold": 25.0, 
+                "bulletDiametr": 0.083, 
+                "bulletKrupp": 2600.0, 
+                "bulletMass": 18.0, 
+                "bulletName": "SPRENGGRANATE", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 500.0
+            }
+        }, 
+        "Nation": "Germany", 
+        "Tier": 8, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }, 
+    "PGSA110_M.Richthofen": {
+        "Artillery0": {
+            "AP": {
+                "bulletAirDrag": 0.35, 
+                "bulletAlwaysRicochetAt": 60.0, 
+                "bulletDetonator": 0.022, 
+                "bulletDetonatorThreshold": 35.0, 
+                "bulletDiametr": 0.083, 
+                "bulletKrupp": 3300.0, 
+                "bulletMass": 30.0, 
+                "bulletName": "WFR.GR.21AP", 
+                "bulletRicochetAt": 45.0, 
+                "bulletSpeed": 520.0
+            }
+        }, 
+        "Nation": "Germany", 
+        "Tier": 10, 
+        "ammo_num": 1, 
+        "vertdisp0": 0.6, 
+        "vertdisp1": 0.5, 
+        "vertdisp2": 0.2, 
+        "vertdisp4": 0.5
+    }
+}
